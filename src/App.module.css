@@ -13,11 +13,6 @@
     background-color: lightblue;
 }
 
-.nav {
-    grid-area: n;
-    background-color: cadetblue;
-}
-
 .profile {
     grid-area: p;
     background-color: cadetblue;
