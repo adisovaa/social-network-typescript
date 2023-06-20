@@ -1,0 +1,13 @@
+.dialogs {
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: 1fr 11fr;
+}
+
+.dialogsItems {
+
+}
+
+.dialogsMessages {
+
+}

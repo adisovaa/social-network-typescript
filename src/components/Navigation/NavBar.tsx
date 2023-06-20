@@ -10,7 +10,7 @@ import {PATH} from "../../App";
 //     const pageName = PATH.MAIN
 //         ? 'Main'
 //         : currentPage == PATH.DIALOG
-//             ? 'Dialog'
+//             ? 'Dialogs'
 //             : currentPage == PATH.PROFILE
 //                 ? 'Profile'
 //                 : 'Error'
